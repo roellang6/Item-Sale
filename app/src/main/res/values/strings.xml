@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sale</string>
+    <string name="header_Name">Sale</string>
+    <string name="nameTotal">Total</string>
+</resources>
